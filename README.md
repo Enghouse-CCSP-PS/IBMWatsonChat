@@ -16,6 +16,10 @@ The client-side component manages the communication between the user and the age
 
 The communication uses the EI CustomChat widget compenent.  This can be referenced using the EI **CCaaS** default page or the hosting page can be managed by the customer - simply add a script tag to load the EnghouseCCaaSWatsonAssistance.js from the EI **CCaaS** servers and pass the parameters to your page in the URL as detailed below.
 
+## Demo
+![IBMWatson](https://user-images.githubusercontent.com/30227436/203360082-bd2d1968-0d35-47e3-8039-0acd852bbf67.gif)
+
+
 ## Setting Up
 
 
